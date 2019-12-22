@@ -10,6 +10,6 @@ https://cs50.harvard.edu/college/psets/5/speller/
 Run
 ---
 
-.. code-block:: python
+.. code-block:: c
 
     $ ./speller texts/lalaland.txt
